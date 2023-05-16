@@ -1,5 +1,7 @@
 # project V-Card
 
+## Reopo live link:https://gio213.github.io/v-card/
+
 ## using HTML and CSS
 
 ### By: Giorgi Patsia
@@ -9,5 +11,3 @@
 ## Becode
 
 ## JOHNSON 9
-
-## Reopo live link:https://gio213.github.io/v-card/
